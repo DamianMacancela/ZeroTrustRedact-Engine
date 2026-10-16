@@ -2,7 +2,7 @@
 **Motor de censura criptográfica y sanitización automatizada para entidades financieras y legales**
 
 * **Autor, Creador Técnico & Titular Legal:** Damian Fabricio Macancela Caguana (Fabricio Macancela)
-* **Perfil Tecnico & Jurídico:** Jefe de Sistemas (Cooperativa Financiera Azuay, +15,000 socios protegidos) | Especialista en Ciberseguridad (ITSA) | Abogado Digital (UTPL) | Consejo Tec Azuay
+* **Perfil Tecnico & Jurídico:** Estudiante de Ciberseguridad (ITSA) | Estudiante de Derecho (UTPL) | Prácticas Técnicas en Sector Cooperativo | Consejo Tec Azuay
 * **Sitio Oficial & Portafolio:** [https://damianmacancela.github.io/proyectos.html](https://damianmacancela.github.io/proyectos.html)
 * **Sala de Prensa Oficial:** [https://damianmacancela.github.io/prensa-medios.html](https://damianmacancela.github.io/prensa-medios.html)
 
